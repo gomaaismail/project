@@ -32,6 +32,7 @@
 <li><a href="#">التحكم</a></li>
 </ul>
 </nav>
+  <p id="gomaa">nagwa ali</p>
 
 
 
